@@ -10,7 +10,8 @@ In the cloud, sandboxing allows developers and QA teams to test applications wit
 
 ---
 
-![Uploading WhatsApp Image 2025-09-24 at 13.43.02.jpeg…]()
+
+![WhatsApp Image 2025-09-24 at 13 43 02](https://github.com/user-attachments/assets/83baa38e-7f98-4710-a122-c379e3918b6c)
 
 
 
