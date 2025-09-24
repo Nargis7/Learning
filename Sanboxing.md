@@ -10,7 +10,9 @@ In the cloud, sandboxing allows developers and QA teams to test applications wit
 
 ---
 
-<img width="1285" height="650" alt="image" src="https://github.com/user-attachments/assets/f4d3ff09-9fcb-455a-8274-4b93fc5c401c" />
+
+<img width="1365" height="701" alt="image" src="https://github.com/user-attachments/assets/406b6fd8-cf90-4590-82d4-eac2a49f22d2" />
+
 
 
 ## Sandboxing Benefits
@@ -21,7 +23,8 @@ In the cloud, sandboxing allows developers and QA teams to test applications wit
 * **Cost-efficiency:** Pay only for what you use.
 * **Faster testing:** Quick setup and teardown.
 
----
+---<img width="428" height="162" alt="Screenshot 2025-09-24 134043" src="https://github.com/user-attachments/assets/813386c1-bdfd-434f-b7a5-85b492e7afbd" />
+
 
 ## QA Testing Challenges in the Cloud
 
