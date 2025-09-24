@@ -22,8 +22,10 @@ In the cloud, sandboxing allows developers and QA teams to test applications wit
 * **Scalability:** Easily create and destroy sandboxes in the cloud.
 * **Cost-efficiency:** Pay only for what you use.
 * **Faster testing:** Quick setup and teardown.
+  <img width="1365" height="701" alt="image" src="https://github.com/user-attachments/assets/406b6fd8-cf90-4590-82d4-eac2a49f22d2" />
 
----<img width="428" height="162" alt="Screenshot 2025-09-24 134043" src="https://github.com/user-attachments/assets/813386c1-bdfd-434f-b7a5-85b492e7afbd" />
+
+---
 
 
 ## QA Testing Challenges in the Cloud
@@ -33,10 +35,7 @@ In the cloud, sandboxing allows developers and QA teams to test applications wit
 3. **Cost management** – Overuse of cloud resources can increase costs.
 4. **Tool integration** – Integrating various cloud tools for automated testing can be complex.
 5. **Latency & performance** – Cloud latency can affect test results.
-
-   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/96c977f2-eae0-466c-90dc-5bd5c1278163" />
-
-
+<img width="428" height="162" alt="Screenshot 2025-09-24 134043" src="https://github.com/user-attachments/assets/813386c1-bdfd-434f-b7a5-85b492e7afbd" />
 ---
 
 ## Types of QA Testing in the Cloud
@@ -49,6 +48,7 @@ In the cloud, sandboxing allows developers and QA teams to test applications wit
 6. **Automated Testing** – Running tests automatically using CI/CD pipelines in the cloud.
 
 ---
+![WhatsApp Image 2025-09-24 at 13 43 09](https://github.com/user-attachments/assets/63cee08d-c9fa-4f92-8d69-b9c65e552d9f)
 
 ## Real-Life Example
 
