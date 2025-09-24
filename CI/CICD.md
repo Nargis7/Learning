@@ -58,3 +58,5 @@ Netflix uses CI/CD pipelines in AWS Cloud to deploy changes to production multip
 CI/CD in the Cloud = **Automating integration & deployment in cloud environments for faster, safer software delivery.**
 
 <img width="906" height="460" alt="image" src="https://github.com/user-attachments/assets/086e424b-c5fa-4c27-aa6e-df492d25ac2e" />
+
+<img width="1246" height="656" alt="image" src="https://github.com/user-attachments/assets/6bb88b5d-f0bb-4286-9026-0ced01ad7b16" />
